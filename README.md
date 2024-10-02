@@ -1,5 +1,7 @@
 # AtliQ Hospitality Analysis - PowerBI
+
 I’m excited to showcase my latest Power BI project, I have worked on this analysis project.
+
 Designed a dashboard in Power BI as part of the monthly challenge to provide insights to the revenue team of Atliq Grands
 
 ## Problem statement
